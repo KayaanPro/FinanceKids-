@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+
+nav{
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow: 0 25px 20px -20px rgba(0, 0, 0, 0.4);
+    width: 80%;
+    
+}
+
+#Img1{
+    height: 30%;
+    width: 70%;
+}
+
+#features{
+    height: 50%;
+    width: 50%;
+    
+}
+
+#feature_div{
+    background-color: black;
+    width: 70%;
+    border-radius: 50px;
+}
+
+#feature_h3_{
+    color: rgb(48,220,111);
+    font-family: 'Tilt Neon', cursive;
+
+}
+
+#feature_h3{
+    color: white;
+    font-family: 'Tilt Neon', cursive;
+
+}
+
+#WhatYouCanDo{
+    width: 50%;
+    height: 50%;
+}
+
+#wycd_div{
+    background-color: black;
+    width: 92%;
+    border-radius: 50px;
+}
+
+#wycd_h3_{
+    color: rgb(48,220,111);
+    font-family: 'Tilt Neon', cursive;
+
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+#myCarousel {
+	background-color: rgb(48,220,111);
+    border-radius: 30px;
+}
+
+#start_course{
+    border-radius: 50px;
+    background-color: black;
+    color: rgb(48,220,111);
+    font-family: 'Tilt Neon', cursive;
+    width: 30%;
+    font-size: 22px;
+
+}
+
+#contact_div{
+    color: rgb(48,220,111);
+    font-family: 'Tilt Neon', cursive;
+    background-color: black;
+    width: 30%;
+    border-radius: 50px;
+}
+
+#contact_h4{
+    color: white;
+}
+
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+.start_couse{
+    color: rgb(48,220,111);
+    font-family: 'Tilt Neon', cursive;
+    background-color: black;
+    border-radius: 50px;
+    height: 35px;
+    font-size: medium;
+}
+
+#login_in{
+    background: black;float: none;border-radius: 15px;color: white;font-family: 'Tilt Neon', cursive; 
+
+}
+
+#title_course{
+    background: black;float: none;border-radius: 25px;color: white;font-family: 'Tilt Neon', cursive; width: 30%; font-size: 25px;
+}
+
+#course_div
+{
+    color: white;
+    font-family: 'Tilt Neon', cursive;
+    background-color: black;
+    border-radius: 15px;
+    font-size: medium;
+    width: 40%;
+}
+
+#h3_1{
+
+    color: rgb(48,220,111);
+}
+
+
+
+#h2_div{
+    width: 30%;
+    color: white;
+    font-family: 'Tilt Neon', cursive;
+    background-color: black;
+    border-radius: 30px;
+}
